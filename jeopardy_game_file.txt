@@ -1,0 +1,112 @@
+//////////////////////////////////////
+//                                  //
+//    How the file is structured:   //
+//                                  //
+//////////////////////////////////////
+
+// ^ = Number of questions per category
+// $ = Number of categories
+// # = Name of category
+// ~ = New category signaler
+// * = New question signaler
+// % = Question point value
+// @ = Incorrect answer choice
+// & = Correct answer choice
+
+// BEGIN FILE DATA: 
+
+^ 3
+$ 4
+
+# Animals
+# Cars
+# Music
+# Movies
+
+~ Animals
+* The fastest land animal in the world
+% 100
+@ What is an elephant?
+@ What is a lion?
+@ What is a leopard?
+& What is a cheetah?
+
+* Can live up to 150 years old
+% 200
+@ What is a mamoth?
+& What is a turtle?
+@ What is a eagle?
+@ What is a rhino?
+
+* Was known as the crocidile hunter and had a famous tv show
+% 300
+& Who is Steve Irvin?
+@ Who is Michael Jackson?
+@ Who is Bill Nye?
+@ Who is King Kong?
+
+~ Cars
+* The fastest car in the world
+% 100
+@ What is a Ford Mustang GT?
+& What is a Buggati Chiron?
+@ What is a Ferrari LaFerrari?
+@ What is a Audi R8 V10 Plus?
+
+* Is responsible for ensuring your car battery remains charged
+% 200
+@ What is a speedometer?
+@ What is a crank shaft?
+& What is an alternator?
+@ What is a supercharger?
+
+* Is the main computer of a car
+% 300
+@ What is a transmission?
+& What is an ECU?
+@ What is a fuse box?
+@ What is a TCU?
+
+~ Music
+* Is the greatest rapper of all time
+% 100
+@ Who is Jay Z?
+& Who is Lil Wayne?
+@ Who is Flava Flave?
+@ Who is Prince?
+
+* Is referred to as multiple piano keys pressed together
+% 200
+@ What is a riff?
+@ What is a melody?
+& What is a chord?
+@ What is a bar?
+
+* Created songs such as "FEFE" and "GUMMO"
+% 300
+@ Who is Justin Bieber?
+@ Who is Michael Jackson?
+@ Who is Gucci Mane?
+& Who is Tekashi 6ix9ine?
+
+~ Movies
+* Included The Dark Knight and The Dark Knight Rises
+% 100
+@ What is the Superman series?
+& What is the Batman series?
+@ What is the Incredibles series?
+@ What is the Jurassic World series?
+
+* Is usually referred to as a rig in a movie production set
+% 200
+& What is the camera setup reffered to as?
+@ What is the boom mic setup reffered to as?
+@ What is the production backdrop reffered to as?
+@ What is the production crew reffered to as?
+
+* This movie format came out after DVD but before streaming
+% 300
+@ What is a VHS tape?
+@ What is a projector film?
+& What is a Blu-Ray disc?
+@ What is a hard drive?
